@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5e46c345f47a2d40b2cc2b8e7f14378, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  startingCardShopForest:
+  - {fileID: 11400000, guid: f0dcaa00c46e6d448a250990f8e24b3f, type: 2}
+  - {fileID: 11400000, guid: 2893e57d160a9964994848e7163641db, type: 2}
+  - {fileID: 11400000, guid: 4b27c89196d671b4a9686035de3e29de, type: 2}
+  - {fileID: 11400000, guid: 8f708d47918015e4da28ca66f8240d71, type: 2}
+  - {fileID: 11400000, guid: e2e803ff5c1a9264a9476e3ad9dc2294, type: 2}
+  - {fileID: 11400000, guid: 80ebf47ba92519a48a8f85fc364980a5, type: 2}
+  - {fileID: 11400000, guid: bd5dbb17ec4732f418f4dca5edd0761c, type: 2}
+  - {fileID: 11400000, guid: e2d261d08059eba49b889834e6d079c6, type: 2}
+  startingStickerShopForest:
+  - {fileID: 11400000, guid: 8e691d63adcffc84490c41e1093e91dc, type: 2}
+  - {fileID: 11400000, guid: 5c21012f3b9bba845a2eca13403ae707, type: 2}
+  - {fileID: 11400000, guid: d9139b0f2d8070345af7d54dfb78370b, type: 2}
+  - {fileID: 11400000, guid: c0ed9dba36570c749b582031440ba95c, type: 2}
+  - {fileID: 11400000, guid: 304a4e6026a80ba448d83dea04c1a209, type: 2}
+  startingCardShopDesert:
+  - {fileID: 11400000, guid: 25b76c6788eb3f948aa6194229963753, type: 2}
+  - {fileID: 11400000, guid: 25b76c6788eb3f948aa6194229963753, type: 2}
+  - {fileID: 11400000, guid: c3d091661bd359840b3139142217e460, type: 2}
+  - {fileID: 11400000, guid: c3d091661bd359840b3139142217e460, type: 2}
+  - {fileID: 11400000, guid: 4fac3b92e794f06448a0cf5612071e9a, type: 2}
+  - {fileID: 11400000, guid: 97ee1cd94c926fc428960705e47e28d1, type: 2}
+  - {fileID: 11400000, guid: 295c9fbaa7a193343a9eaee613a34ecc, type: 2}
+  - {fileID: 11400000, guid: 80f91cb35287ccc4dba8928eeac6bac8, type: 2}
+  startingStickerShopDesert:
+  - {fileID: 11400000, guid: 8dfa44a898e4dc642bcc06de5b484dde, type: 2}
+  - {fileID: 11400000, guid: cd98a27a4f03ddd49a7b68a1e71c5843, type: 2}
+  - {fileID: 11400000, guid: 04859ba7dc2da6442afa7cd9e5440f83, type: 2}
+  - {fileID: 11400000, guid: 0749e7d326ee42d43b403ac2062de441, type: 2}
+  - {fileID: 11400000, guid: e9355e77dfa315d41acd40b29812a9a7, type: 2}
+  startingCardShopArctic:
+  - {fileID: 11400000, guid: ef5ba6c2276d59840b00573c3736b4e9, type: 2}
+  - {fileID: 11400000, guid: 537c5b5f3f67ae3489cce1ad6ba788a6, type: 2}
+  - {fileID: 11400000, guid: 23af1eea31180b74eb9c795c1766093c, type: 2}
+  - {fileID: 11400000, guid: 23af1eea31180b74eb9c795c1766093c, type: 2}
+  - {fileID: 11400000, guid: 84e982d2dcd82e34485f68045d65ab95, type: 2}
+  - {fileID: 11400000, guid: f439c9cd8324e524aacd3136383cc762, type: 2}
+  - {fileID: 11400000, guid: c9618ebd46dc17f459d00c65f1571e4b, type: 2}
+  - {fileID: 11400000, guid: 95afb8aea69dfc04582ebe2da7fdaef6, type: 2}
+  startingStickerShopArctic:
+  - {fileID: 11400000, guid: 1b2ff8a39cba32c4691c0e00ff7b5c6c, type: 2}
+  - {fileID: 11400000, guid: 9a578f428f4ea114ba8f4cf4d94ab9f1, type: 2}
+  - {fileID: 11400000, guid: 0376641a3e3c0ed4d956ccf4dc3cad00, type: 2}
+  - {fileID: 11400000, guid: 3d99489913e41ad46a6a823fe6428076, type: 2}
+  - {fileID: 11400000, guid: f52116fb15849b949ab87b6b8c48087d, type: 2}
+  startingCardShopGraveyard:
+  - {fileID: 11400000, guid: 30fd8dfb702a3fc43816670e2c6b75fe, type: 2}
+  - {fileID: 11400000, guid: 45aae403d944f574a82232f0efef98a8, type: 2}
+  - {fileID: 11400000, guid: e2d261d08059eba49b889834e6d079c6, type: 2}
+  - {fileID: 11400000, guid: d85f6acda066e1946b93166f3ae90057, type: 2}
+  - {fileID: 11400000, guid: d85f6acda066e1946b93166f3ae90057, type: 2}
+  - {fileID: 11400000, guid: 27031cb5c87c7164a94115964f409ff7, type: 2}
+  - {fileID: 11400000, guid: ecfa256c1a00c204499b45059fe4060a, type: 2}
+  - {fileID: 11400000, guid: 23af1eea31180b74eb9c795c1766093c, type: 2}
+  startingStickerShopGraveyard:
+  - {fileID: 11400000, guid: b18806dd76056854fa92429a855693a5, type: 2}
+  - {fileID: 11400000, guid: 9cfa90ea837ba4e4fa28a8fbb6285b0c, type: 2}
+  - {fileID: 11400000, guid: 36bec597fa549454e9d62864db5e13fe, type: 2}
+  - {fileID: 11400000, guid: 3166d5d5e9efcfe48a4d9b5f71c608ab, type: 2}
+  - {fileID: 11400000, guid: 2513172a258b0354fa6c976c78cd61b4, type: 2}
+  startingCardShopCastle:
+  - {fileID: 11400000, guid: 45aae403d944f574a82232f0efef98a8, type: 2}
+  - {fileID: 11400000, guid: 30fd8dfb702a3fc43816670e2c6b75fe, type: 2}
+  - {fileID: 11400000, guid: ef5ba6c2276d59840b00573c3736b4e9, type: 2}
+  - {fileID: 11400000, guid: 20c55ad35eb6fdd4b8a4f000604ce3fa, type: 2}
+  - {fileID: 11400000, guid: 295c9fbaa7a193343a9eaee613a34ecc, type: 2}
+  - {fileID: 11400000, guid: 95afb8aea69dfc04582ebe2da7fdaef6, type: 2}
+  - {fileID: 11400000, guid: d85f6acda066e1946b93166f3ae90057, type: 2}
+  - {fileID: 11400000, guid: ecfa256c1a00c204499b45059fe4060a, type: 2}
+  startingStickerShopCastle:
+  - {fileID: 11400000, guid: 75c5b8efdcda7c64c82b88ea2193c73f, type: 2}
+  - {fileID: 11400000, guid: 840f15017dd235b43a9131e10990c696, type: 2}
+  - {fileID: 11400000, guid: 695438844a738804ea9ff93d378d2aae, type: 2}
+  - {fileID: 11400000, guid: cc172a1381dd3cc4396cd8af9b2b42c7, type: 2}
+  - {fileID: 11400000, guid: 94e217729f58b494a86a1797477b5166, type: 2}
+  cardShopForest:
+  - {fileID: 11400000, guid: f0dcaa00c46e6d448a250990f8e24b3f, type: 2}
+  - {fileID: 11400000, guid: 2893e57d160a9964994848e7163641db, type: 2}
+  - {fileID: 11400000, guid: 4b27c89196d671b4a9686035de3e29de, type: 2}
+  - {fileID: 11400000, guid: 8f708d47918015e4da28ca66f8240d71, type: 2}
+  - {fileID: 11400000, guid: e2e803ff5c1a9264a9476e3ad9dc2294, type: 2}
+  - {fileID: 11400000, guid: 80ebf47ba92519a48a8f85fc364980a5, type: 2}
+  - {fileID: 11400000, guid: bd5dbb17ec4732f418f4dca5edd0761c, type: 2}
+  stickerShopForest:
+  - {fileID: 11400000, guid: 8e691d63adcffc84490c41e1093e91dc, type: 2}
+  - {fileID: 11400000, guid: 5c21012f3b9bba845a2eca13403ae707, type: 2}
+  - {fileID: 11400000, guid: d9139b0f2d8070345af7d54dfb78370b, type: 2}
+  - {fileID: 11400000, guid: c0ed9dba36570c749b582031440ba95c, type: 2}
+  - {fileID: 11400000, guid: 304a4e6026a80ba448d83dea04c1a209, type: 2}
+  cardShopDesert:
+  - {fileID: 11400000, guid: 25b76c6788eb3f948aa6194229963753, type: 2}
+  - {fileID: 11400000, guid: 25b76c6788eb3f948aa6194229963753, type: 2}
+  - {fileID: 11400000, guid: c3d091661bd359840b3139142217e460, type: 2}
+  - {fileID: 11400000, guid: c3d091661bd359840b3139142217e460, type: 2}
+  - {fileID: 11400000, guid: 4fac3b92e794f06448a0cf5612071e9a, type: 2}
+  - {fileID: 11400000, guid: 97ee1cd94c926fc428960705e47e28d1, type: 2}
+  - {fileID: 11400000, guid: 295c9fbaa7a193343a9eaee613a34ecc, type: 2}
+  - {fileID: 11400000, guid: 80f91cb35287ccc4dba8928eeac6bac8, type: 2}
+  stickerShopDesert:
+  - {fileID: 11400000, guid: 8dfa44a898e4dc642bcc06de5b484dde, type: 2}
+  - {fileID: 11400000, guid: cd98a27a4f03ddd49a7b68a1e71c5843, type: 2}
+  - {fileID: 11400000, guid: 04859ba7dc2da6442afa7cd9e5440f83, type: 2}
+  - {fileID: 11400000, guid: 0749e7d326ee42d43b403ac2062de441, type: 2}
+  - {fileID: 11400000, guid: e9355e77dfa315d41acd40b29812a9a7, type: 2}
+  cardShopArctic:
+  - {fileID: 11400000, guid: ef5ba6c2276d59840b00573c3736b4e9, type: 2}
+  - {fileID: 11400000, guid: 537c5b5f3f67ae3489cce1ad6ba788a6, type: 2}
+  - {fileID: 11400000, guid: 23af1eea31180b74eb9c795c1766093c, type: 2}
+  - {fileID: 11400000, guid: 23af1eea31180b74eb9c795c1766093c, type: 2}
+  - {fileID: 11400000, guid: 84e982d2dcd82e34485f68045d65ab95, type: 2}
+  - {fileID: 11400000, guid: f439c9cd8324e524aacd3136383cc762, type: 2}
+  - {fileID: 11400000, guid: c9618ebd46dc17f459d00c65f1571e4b, type: 2}
+  - {fileID: 11400000, guid: 95afb8aea69dfc04582ebe2da7fdaef6, type: 2}
+  stickerShopArctic:
+  - {fileID: 11400000, guid: 1b2ff8a39cba32c4691c0e00ff7b5c6c, type: 2}
+  - {fileID: 11400000, guid: 9a578f428f4ea114ba8f4cf4d94ab9f1, type: 2}
+  - {fileID: 11400000, guid: 0376641a3e3c0ed4d956ccf4dc3cad00, type: 2}
+  - {fileID: 11400000, guid: 3d99489913e41ad46a6a823fe6428076, type: 2}
+  - {fileID: 11400000, guid: f52116fb15849b949ab87b6b8c48087d, type: 2}
+  cardShopGraveyard:
+  - {fileID: 11400000, guid: 30fd8dfb702a3fc43816670e2c6b75fe, type: 2}
+  - {fileID: 11400000, guid: 45aae403d944f574a82232f0efef98a8, type: 2}
+  - {fileID: 11400000, guid: e2d261d08059eba49b889834e6d079c6, type: 2}
+  - {fileID: 11400000, guid: d85f6acda066e1946b93166f3ae90057, type: 2}
+  - {fileID: 11400000, guid: d85f6acda066e1946b93166f3ae90057, type: 2}
+  - {fileID: 11400000, guid: 27031cb5c87c7164a94115964f409ff7, type: 2}
+  - {fileID: 11400000, guid: ecfa256c1a00c204499b45059fe4060a, type: 2}
+  - {fileID: 11400000, guid: 23af1eea31180b74eb9c795c1766093c, type: 2}
+  stickerShopGraveyard:
+  - {fileID: 11400000, guid: 36bec597fa549454e9d62864db5e13fe, type: 2}
+  - {fileID: 11400000, guid: 3166d5d5e9efcfe48a4d9b5f71c608ab, type: 2}
+  - {fileID: 11400000, guid: 2513172a258b0354fa6c976c78cd61b4, type: 2}
+  - {fileID: 11400000, guid: b18806dd76056854fa92429a855693a5, type: 2}
+  - {fileID: 11400000, guid: 9cfa90ea837ba4e4fa28a8fbb6285b0c, type: 2}
+  cardShopCastle:
+  - {fileID: 11400000, guid: 45aae403d944f574a82232f0efef98a8, type: 2}
+  - {fileID: 11400000, guid: 30fd8dfb702a3fc43816670e2c6b75fe, type: 2}
+  - {fileID: 11400000, guid: ef5ba6c2276d59840b00573c3736b4e9, type: 2}
+  - {fileID: 11400000, guid: 20c55ad35eb6fdd4b8a4f000604ce3fa, type: 2}
+  - {fileID: 11400000, guid: 295c9fbaa7a193343a9eaee613a34ecc, type: 2}
+  - {fileID: 11400000, guid: 95afb8aea69dfc04582ebe2da7fdaef6, type: 2}
+  - {fileID: 11400000, guid: d85f6acda066e1946b93166f3ae90057, type: 2}
+  - {fileID: 11400000, guid: ecfa256c1a00c204499b45059fe4060a, type: 2}
+  stickerShopCastle:
+  - {fileID: 11400000, guid: 75c5b8efdcda7c64c82b88ea2193c73f, type: 2}
+  - {fileID: 11400000, guid: 840f15017dd235b43a9131e10990c696, type: 2}
+  - {fileID: 11400000, guid: 695438844a738804ea9ff93d378d2aae, type: 2}
+  - {fileID: 11400000, guid: cc172a1381dd3cc4396cd8af9b2b42c7, type: 2}
+  - {fileID: 11400000, guid: 94e217729f58b494a86a1797477b5166, type: 2}

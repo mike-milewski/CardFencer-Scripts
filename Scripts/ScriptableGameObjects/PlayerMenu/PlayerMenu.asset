@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280f0b17cc013784ba4d95452e7276d8, type: 3}
+  m_Name: PlayerMenu
+  m_EditorClassIdentifier: 
+  _rank:
+  - rankBonus: 0100000000000000
+    itemSlotSprite: {fileID: 21300000, guid: 29a6e1388b52f9e48b8746ece6299038, type: 3}
+    stickerSlotSprite: {fileID: 21300000, guid: 2d4c98e460bc224449dad771fca0f7c7, type: 3}
+    armorSprite: {fileID: 21300000, guid: 1c76613636d36f640b612a69b38f5026, type: 3}
+    handSizeSprite: {fileID: 21300000, guid: 1fe5b1a29acb49c4da1c5b28528b7485, type: 3}
+    cardSprite: {fileID: 21300000, guid: b174e7e9a4011b54b93d29b26266253a, type: 3}
+    rankCard: {fileID: 11400000, guid: c554dfbccac7f914abe3b3834554c373, type: 2}
+    rankSticker: {fileID: 11400000, guid: 2a4dc0b4d9e13b24399fbdd819f0aecc, type: 2}
+  - rankBonus: 0000000003000000
+    itemSlotSprite: {fileID: 21300000, guid: 29a6e1388b52f9e48b8746ece6299038, type: 3}
+    stickerSlotSprite: {fileID: 21300000, guid: fc0bb74af759462438acff3d4c659d3c, type: 3}
+    armorSprite: {fileID: 21300000, guid: 1c76613636d36f640b612a69b38f5026, type: 3}
+    handSizeSprite: {fileID: 21300000, guid: 1fe5b1a29acb49c4da1c5b28528b7485, type: 3}
+    cardSprite: {fileID: 21300000, guid: b174e7e9a4011b54b93d29b26266253a, type: 3}
+    rankCard: {fileID: 11400000, guid: c554dfbccac7f914abe3b3834554c373, type: 2}
+    rankSticker: {fileID: 11400000, guid: 2a4dc0b4d9e13b24399fbdd819f0aecc, type: 2}
+  - rankBonus: 0100000003000000
+    itemSlotSprite: {fileID: 21300000, guid: 07cc3bcec1d9e554bb1f171683ab054e, type: 3}
+    stickerSlotSprite: {fileID: 21300000, guid: 2d4c98e460bc224449dad771fca0f7c7, type: 3}
+    armorSprite: {fileID: 21300000, guid: 1c76613636d36f640b612a69b38f5026, type: 3}
+    handSizeSprite: {fileID: 21300000, guid: 1fe5b1a29acb49c4da1c5b28528b7485, type: 3}
+    cardSprite: {fileID: 21300000, guid: b174e7e9a4011b54b93d29b26266253a, type: 3}
+    rankCard: {fileID: 11400000, guid: c554dfbccac7f914abe3b3834554c373, type: 2}
+    rankSticker: {fileID: 11400000, guid: 2a4dc0b4d9e13b24399fbdd819f0aecc, type: 2}
+  - rankBonus: 0200000004000000
+    itemSlotSprite: {fileID: 21300000, guid: 07cc3bcec1d9e554bb1f171683ab054e, type: 3}
+    stickerSlotSprite: {fileID: 21300000, guid: 2d4c98e460bc224449dad771fca0f7c7, type: 3}
+    armorSprite: {fileID: 21300000, guid: 1c76613636d36f640b612a69b38f5026, type: 3}
+    handSizeSprite: {fileID: 21300000, guid: 1fe5b1a29acb49c4da1c5b28528b7485, type: 3}
+    cardSprite: {fileID: 21300000, guid: 191eea0abe2133848bb82fcbc1903c95, type: 3}
+    rankCard: {fileID: 11400000, guid: c554dfbccac7f914abe3b3834554c373, type: 2}
+    rankSticker: {fileID: 11400000, guid: 2a4dc0b4d9e13b24399fbdd819f0aecc, type: 2}
+  - rankBonus: 020000000400000005000000
+    itemSlotSprite: {fileID: 21300000, guid: 07cc3bcec1d9e554bb1f171683ab054e, type: 3}
+    stickerSlotSprite: {fileID: 21300000, guid: 2d4c98e460bc224449dad771fca0f7c7, type: 3}
+    armorSprite: {fileID: 21300000, guid: fce1fb6a3ed5add4bbb7fec21b946acc, type: 3}
+    handSizeSprite: {fileID: 21300000, guid: 1fe5b1a29acb49c4da1c5b28528b7485, type: 3}
+    cardSprite: {fileID: 21300000, guid: 191eea0abe2133848bb82fcbc1903c95, type: 3}
+    rankCard: {fileID: 11400000, guid: ae6922720bab3b645a861996d4cc1990, type: 2}
+    rankSticker: {fileID: 11400000, guid: 7b96653b0e9985a40b062c49aa796098, type: 2}
+  minimumDeckSize: 10
+  currentDeckLimit: 10
+  maximumDeckLimit: 40
+  currentHandSize: 3
+  maximumHandSize: 5
+  equippedStickers: 0
+  currentStickerSlotSize: 3
+  maximumStickerSlotSize: 5
+  currentEquippedItems:
+  - {fileID: 11400000, guid: db29be279cc98444ba53642e69a20332, type: 2}
+  equippedItems: 1
+  currentItemSlotSize: 1
+  maximumItemSlotSize: 3
+  currentlyEquippedMysticCards: 0
+  maximumMysticCards: 5
+  stashLimit: 50
+  weaponIndex: 0
+  weaponName:
+  - Novice Sword
+  - Veteran Sword
+  - Elite Sword
+  weaponDescription:
+  - A sword given to rookie Card Fencers. Capable of destroying basic-tier blockades.
+  - A sword given to seasoned Card Fencers. Capable of destroying mid-tier blockades.
+  - A sword given to expert Card Fencers. Capable of destroying high-tier blockades.
+  weaponSprite:
+  - {fileID: 21300000, guid: 86a7827295cfde644ac82829d72df345, type: 3}
+  - {fileID: 21300000, guid: 9e25f8df5c45618488ed1ad5f410735a, type: 3}
+  - {fileID: 21300000, guid: 29ecfcd4c5bc0574fb3d1eec86b729a5, type: 3}
+  shieldIndex: 0
+  shieldName:
+  - Novice Shield
+  - Veteran Shield
+  - Elite Shield
+  shieldDescription:
+  - A shield given to rookie Card Fencers. Capable of moving basic-tier blockades.
+  - A shield given to seasoned Card Fencers. Capable of moving mid-tier blockades.
+  - A shield given to expert Card Fencers. Capable of moving high-tier blockades.
+  shieldSprite:
+  - {fileID: 21300000, guid: 465b6949e90c4a548ac36b34f9bd4f97, type: 3}
+  - {fileID: 21300000, guid: e22379b7ecaa35c4eb30d83576e7c537, type: 3}
+  - {fileID: 21300000, guid: 41720a4e5e960da42996115b4caaecae, type: 3}
+  armorIndex: 0
+  armorName:
+  - Novice Armor
+  - VeteranArmor
+  - Elite Armor
+  armorDescription:
+  - Armor given to rookie Card Fencers. Reduces damage dealt by enemies.
+  - Armor given to seasoned Card Fencers. Reduces more damage dealt by enemies.
+  - Armor given to expert Card Fencers. Reduces even more damage dealt by enemies.
+  armorSprite:
+  - {fileID: 21300000, guid: 961491afdff9f194296e1f5b2a588e0f, type: 3}
+  - {fileID: 21300000, guid: 1c76613636d36f640b612a69b38f5026, type: 3}
+  - {fileID: 21300000, guid: fce1fb6a3ed5add4bbb7fec21b946acc, type: 3}
+  rankIndex: -1
+  levelIndex: 0
+  levelRequirement: 060000000c000000120000001900000028000000
+  rankName:
+  - Bronze
+  - Silver
+  - Gold
+  - Diamond
+  - Brilliant
+  rankSprites:
+  - {fileID: 21300000, guid: 5e1bd75dbbee65b4f8d336c1e02f7242, type: 3}
+  - {fileID: 21300000, guid: 457eb7cc8d347bc4bb8ce86fad72211c, type: 3}
+  - {fileID: 21300000, guid: 640737fb061aa1445afdfe550f006b4c, type: 3}
+  - {fileID: 21300000, guid: f187c040b9849fa4184306520e2d8d07, type: 3}
+  - {fileID: 21300000, guid: c0ecfa0c4910cd346b09fca1a132032c, type: 3}

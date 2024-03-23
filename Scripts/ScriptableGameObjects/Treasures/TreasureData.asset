@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1d69068a56e25b4f90b7af2addf9607, type: 3}
+  m_Name: TreasureData
+  m_EditorClassIdentifier: 
+  worldTreasures:
+  - stageTreasures:
+    - treasures: 0100000001000000
+    - treasures: 0100000001000000
+    - treasures: 010000000100000001000000
+    - treasures: 010000000000000001000000
+    - treasures: 010000000000000001000000
+    secretStageTreasures:
+    - treasures: 010000000100000001000000
+    - treasures: 000000000000000000000000
+    - treasures: 00000000
+  - stageTreasures:
+    - treasures: 010000000100000001000000
+    - treasures: 0100000001000000
+    - treasures: 010000000100000001000000
+    - treasures: 010000000100000001000000
+    - treasures: 010000000100000001000000
+    secretStageTreasures:
+    - treasures: 000000000000000000000000
+    - treasures: 0000000000000000
+    - treasures: 000000000000000000000000
+  - stageTreasures:
+    - treasures: 0100000001000000
+    - treasures: 0100000001000000
+    - treasures: 010000000100000001000000
+    - treasures: 010000000000000001000000
+    - treasures: 000000000100000001000000
+    secretStageTreasures:
+    - treasures: 000000000000000000000000
+    - treasures: 000000000000000000000000
+    - treasures: 00000000
+  - stageTreasures:
+    - treasures: 010000000000000001000000
+    - treasures: 010000000100000001000000
+    - treasures: 000000000100000001000000
+    - treasures: 000000000000000000000000
+    - treasures: 000000000000000000000000
+    secretStageTreasures:
+    - treasures: 000000000000000000000000
+    - treasures: 000000000000000000000000
+    - treasures: 0000000000000000
+  - stageTreasures:
+    - treasures: 0000000000000000
+    - treasures: 0000000000000000
+    - treasures: 000000000000000000000000
+    - treasures: 000000000000000000000000
+    - treasures: 000000000000000000000000
+    secretStageTreasures:
+    - treasures: 000000000000000000000000
+    - treasures: 000000000000000000000000
+    - treasures: 000000000000000000000000

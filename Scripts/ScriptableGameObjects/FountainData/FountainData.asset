@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 971c6bce568035742909f4971beadeae, type: 3}
+  m_Name: FountainData
+  m_EditorClassIdentifier: 
+  fountainPower:
+  - fountainPowers: 0
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 1
+    statPointIncrease: 2
+    powerInformation: Maximum HP +2
+    stickerInfo: {fileID: 11400000, guid: 2a4dc0b4d9e13b24399fbdd819f0aecc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: c554dfbccac7f914abe3b3834554c373, type: 2}
+  - fountainPowers: 1
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 2
+    statPointIncrease: 2
+    powerInformation: Maximum CP +2
+    stickerInfo: {fileID: 11400000, guid: 3da903ee7bd92f34f8ec3ea91fac5069, type: 2}
+    cardTemplate: {fileID: 11400000, guid: f820418bba0c5a94585e161b235dc5c8, type: 2}
+  - fountainPowers: 5
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 3
+    statPointIncrease: 0
+    powerInformation: Mulligan Sticker
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: c554dfbccac7f914abe3b3834554c373, type: 2}
+  - fountainPowers: 4
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 4
+    statPointIncrease: 0
+    powerInformation: Retrieve Card
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 3
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 5
+    statPointIncrease: 2
+    powerInformation: Maximum Defense +2
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 2
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 5
+    statPointIncrease: 2
+    powerInformation: Maximum Strength +2
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 5
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 6
+    statPointIncrease: 0
+    powerInformation: Spiked Body Sticker
+    stickerInfo: {fileID: 11400000, guid: f87c5b4a032637649ae7c9100bf49eb8, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 4
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 6
+    statPointIncrease: 0
+    powerInformation: Halt Card
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: 8fa437fb3419a8541bab8f88d5d3a881, type: 2}
+  - fountainPowers: 0
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 7
+    statPointIncrease: 5
+    powerInformation: Maximum HP +5
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 1
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 7
+    statPointIncrease: 5
+    powerInformation: Maximum CP +5
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 5
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 8
+    statPointIncrease: 0
+    powerInformation: Gold Crown Sticker
+    stickerInfo: {fileID: 11400000, guid: ca4ace8e8d9cc7047a98278c3dd4d970, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 4
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 9
+    statPointIncrease: 0
+    powerInformation: Copycat Card
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: 33a005d49ca79444fbffc26b25569de0, type: 2}
+  - fountainPowers: 2
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 10
+    statPointIncrease: 5
+    powerInformation: Maximum Strength +5
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 3
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 11
+    statPointIncrease: 3
+    powerInformation: Maximum Defense +3
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: da377164c8448dd40b732109672f7302, type: 2}
+  - fountainPowers: 4
+    mainCharacterStats: {fileID: 11400000, guid: ff17a021a83373f4189b7f84def41c16, type: 2}
+    moonStonesRequired: 15
+    statPointIncrease: 0
+    powerInformation: Life Shaver Card
+    stickerInfo: {fileID: 11400000, guid: a2ad24ac81919a945832df73ebea48cc, type: 2}
+    cardTemplate: {fileID: 11400000, guid: eb3abbbd73826df4498aaa5e7682901d, type: 2}
+  powerIndex: 14
+  maxFountainLevel: 15
